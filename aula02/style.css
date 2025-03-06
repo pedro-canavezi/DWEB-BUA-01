@@ -1,0 +1,12 @@
+h2 {
+    background-color: rgba(182, 20, 182, 0.432);
+    border: 2px solid rgb(206, 82, 255);
+    border-radius: 4px;
+}
+
+h1 {
+    border: 2px solid rgb(138, 42, 141); 
+    text-align: center; 
+    border-radius: 5px; 
+    border-style: dashed;
+}
