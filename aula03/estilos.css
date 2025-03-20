@@ -1,0 +1,47 @@
+.caixa {
+    border: 1px solid black;
+    padding: 4px;
+    /*display: flex;*/
+}
+
+.tam-1{
+    height: 40px;
+}
+
+.tam-2{
+    height: 80px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px;
+    width: 300px;
+}
+.item-body{
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+}
+
+.avatar{
+    font-size: 60px;
+    align-items: center;
+    margin-top: 12px;
+    padding: 6px;
+    margin-right: 8px;
+}
+
+.item-botoes{
+    display: flex;
+    padding: 10px;
+    height: 30px;
+}
